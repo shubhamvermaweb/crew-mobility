@@ -1,0 +1,4 @@
+__pycache__/ 
+*.pyc 
+operations_control.db 
+desktop.ini
